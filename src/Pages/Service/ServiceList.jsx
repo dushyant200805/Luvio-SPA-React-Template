@@ -17,7 +17,7 @@ function ServiceList () {
                 <div className="col-xl-3 col-md-6" data-aos="fade-up">
                     <div className="about-cards card-bg p-3">
                         <div className="image-container  mb-6">
-                            <img src="/public/pool.webp" alt="about-card-image-1" className="object-fit-contain"
+                            <img src="/pool.webp" alt="about-card-image-1" className="object-fit-contain"
                                 width="60" height="60"/>
                         </div>
                         <div className="card-content">
@@ -29,14 +29,14 @@ function ServiceList () {
                 </div>
                 <div className="col-xl-3 col-md-6"  data-aos="fade-up">
                     <div className="facility-gallery-image">
-                        <img src="/public/facility-gallery-1.webp" alt="facility-gallery-image-1"
+                        <img src="/facility-gallery-1.webp" alt="facility-gallery-image-1"
                             className="object-fit-cover w-100" height="350"/>
                     </div>
                 </div>
                 <div className="col-xl-3 col-md-6"  data-aos="fade-up">
                     <div className="about-cards card-bg p-3">
                         <div className="image-container  mb-6">
-                            <img src="/public/massage.webp" alt="about-card-image-1" className="object-fit-contain"
+                            <img src="/massage.webp" alt="about-card-image-1" className="object-fit-contain"
                                 width="60" height="60"/>
                         </div>
                         <div className="card-content">
@@ -48,20 +48,20 @@ function ServiceList () {
                 </div>
                 <div className="col-xl-3 col-md-6"  data-aos="fade-up">
                     <div className="facility-gallery-image">
-                        <img src="/public/facility-gallery-2.webp" alt="facility-gallery-image-2"
+                        <img src="/facility-gallery-2.webp" alt="facility-gallery-image-2"
                             className="object-fit-cover w-100" height="350"/>
                     </div>
                 </div>
                 <div className="col-xl-3 col-md-6"   data-aos="fade-up">
                     <div className="facility-gallery-image">
-                        <img src="/public/facility-gallery-4.webp" alt="facility-gallery-image-3"
+                        <img src="/facility-gallery-4.webp" alt="facility-gallery-image-3"
                             className="object-fit-cover w-100" height="350"/>
                     </div>
                 </div>
                 <div className="col-xl-3 col-md-6"  data-aos="fade-up" >
                     <div className="about-cards card-bg p-3">
                         <div className="image-container  mb-6">
-                            <img src="/public/hot-bathe.webp" alt="about-card-image-1" className="object-fit-contain"
+                            <img src="/hot-bathe.webp" alt="about-card-image-1" className="object-fit-contain"
                                 width="60" height="60"/>
                         </div>
                         <div className="card-content">
@@ -73,14 +73,14 @@ function ServiceList () {
                 </div>
                 <div className="col-xl-3 col-md-6"  data-aos="fade-up" >
                     <div className="facility-gallery-image">
-                        <img src="/public/facility-gallery-3.webp" alt="facility-gallery-image-4"
+                        <img src="/facility-gallery-3.webp" alt="facility-gallery-image-4"
                             className="object-fit-cover w-100" height="350"/>
                     </div>
                 </div>
                 <div className="col-xl-3 col-md-6"   data-aos="fade-up">
                     <div className="about-cards card-bg p-3">
                         <div className="image-container  mb-6">
-                            <img src="/public/foot.webp" alt="about-card-image-1" className="object-fit-contain"
+                            <img src="/foot.webp" alt="about-card-image-1" className="object-fit-contain"
                                 width="60" height="60"/>
                         </div>
                         <div className="card-content">

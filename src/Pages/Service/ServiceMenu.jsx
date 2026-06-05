@@ -21,7 +21,7 @@ function ServiceMenu () {
                         <div className="col-xl-2 col-md-4 col-sm-6">
                             <div className="facility-card  p-3 h-100" data-aos="fade-up">
                                 <div className="image-container mx-auto mb-3">
-                                    <img src="/public/foot.webp" alt="about-card-image-1"   
+                                    <img src="/foot.webp" alt="about-card-image-1"   
                                         className="object-fit-contain w-100 d-block" height="120"/>
                                 </div>
                                 <div className="card-content text-center">
@@ -32,7 +32,7 @@ function ServiceMenu () {
                         <div className="col-xl-2 col-md-4 col-sm-6">
                             <div className="facility-card  p-3 h-100" data-aos="fade-down">
                                 <div className="image-container mx-auto mb-3">
-                                    <img src="/public/skin-care.webp" alt="about-card-image-2"
+                                    <img src="/skin-care.webp" alt="about-card-image-2"
                                         className="object-fit-contain w-100 d-block" height="120"/>
                                 </div>
                                 <div className="card-content text-center">
@@ -43,7 +43,7 @@ function ServiceMenu () {
                         <div className="col-xl-2 col-md-4 col-sm-6">
                             <div className="facility-card  p-3 h-100" data-aos="fade-up">
                                 <div className="image-container mx-auto mb-3">
-                                    <img src="/public/hot-bathe.webp" alt="about-card-image-3"
+                                    <img src="/hot-bathe.webp" alt="about-card-image-3"
                                         className="object-fit-contain w-100 d-block" height="120"/>
                                 </div>
                                 <div className="card-content text-center">
@@ -54,7 +54,7 @@ function ServiceMenu () {
                         <div className="col-xl-2 col-md-4 col-sm-6">
                             <div className="facility-card  p-3 h-100" data-aos="fade-down">
                                 <div className="image-container mx-auto mb-3">
-                                    <img src="/public/pool.webp" alt="about-card-image-3"
+                                    <img src="/pool.webp" alt="about-card-image-3"
                                         className="object-fit-contain w-100 d-block" height="120"/>
                                 </div>
                                 <div className="card-content text-center">
@@ -65,7 +65,7 @@ function ServiceMenu () {
                         <div className="col-xl-2 col-md-4 col-sm-6">
                             <div className="facility-card  p-3 h-100" data-aos="fade-up">
                                 <div className="image-container mx-auto mb-3">
-                                    <img src="/public/massage.webp" alt="about-card-image-3"
+                                    <img src="/massage.webp" alt="about-card-image-3"
                                         className="object-fit-contain w-100 d-block" height="120"/>
                                 </div>
                                 <div className="card-content text-center">
@@ -76,7 +76,7 @@ function ServiceMenu () {
                         <div className="col-xl-2 col-md-4 col-sm-6">
                             <div className="facility-card  p-3 h-100" data-aos="fade-down">
                                 <div className="image-container mx-auto mb-3">
-                                    <img src="/public/coffe.webp" alt="about-card-image-3"
+                                    <img src="/coffe.webp" alt="about-card-image-3"
                                         className="object-fit-contain w-100 d-block" height="120"/>
                                 </div>
                                 <div className="card-content text-center">

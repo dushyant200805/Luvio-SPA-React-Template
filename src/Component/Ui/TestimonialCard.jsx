@@ -1,12 +1,12 @@
 function TestimonialCard () {
     const Testimonialdate = [
         {
-            "ReviewerImage":"/public/test-1.webp",
+            "ReviewerImage":"/test-1.webp",
             "ReviewerDesc":"Sed placerat pretium diam, sed tempus dolor rutrum eu. In et vestibulum magna. Lorem ipsum dolor sit amet,consectetur adipiscing elit. Integer tempor est id fringilla tempus.",
             "ReviewerName":"Anna Tempah",
         },
          {
-            "ReviewerImage":"/public/test-2.webp",
+            "ReviewerImage":"/test-2.webp",
             "ReviewerDesc":"Sed placerat pretium diam, sed tempus dolor rutrum eu. In et vestibulum magna. Lorem ipsum dolor sit amet,consectetur adipiscing elit. Integer tempor est id fringilla tempus.",
             "ReviewerName":"Sarah Johanson",
         }

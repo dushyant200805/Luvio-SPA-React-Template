@@ -15,11 +15,11 @@ function Productsection({ noBg }) {
             <div className="container-fluid">
                 <div className="row">
                     <div className="col-lg-3 product-image p-3 text-center" data-aos="fade-down">
-                        <img src="/public/product-1.webp" alt="product-1" className="object-fit-cover  w-100 "
+                        <img src="/product-1.webp" alt="product-1" className="object-fit-cover  w-100 "
                             height="450" />
                     </div>
                     <div className="col-lg-3 product-image p-3 text-center" data-aos="fade-up">
-                        <img src="/public/product-2.webp" alt="product-1" className="object-fit-cover w-100 "
+                        <img src="/product-2.webp" alt="product-1" className="object-fit-cover w-100 "
                             height="550" />
                     </div>
                     <div className="col-lg-6 d-flex align-items-center justify-content-center">

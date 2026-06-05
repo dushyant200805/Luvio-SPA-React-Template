@@ -11,17 +11,17 @@ function StoryCard () {
     }, []);
     const storydata =[
         {
-            "Storyimage":"/public/about-card-image-1.webp",
+            "Storyimage":"/about-card-image-1.webp",
             "StoryTile":"Spa Experience",
             "Storydesc":"Lorem ipsum dolor sit amet, consec tetur adipiscing elit, seddo eiusmod",
         },
          {
-            "Storyimage":"/public/about-card-image-2.webp",
+            "Storyimage":"/about-card-image-2.webp",
             "StoryTile":"Advanced detox",
             "Storydesc":"Lorem ipsum dolor sit amet, consec tetur adipiscing elit, seddo eiusmod",
         },
          {
-            "Storyimage":"/public/about-card-image-3.webp",
+            "Storyimage":"/about-card-image-3.webp",
             "StoryTile":"Healthy Skin",
             "Storydesc":"Lorem ipsum dolor sit amet, consec tetur adipiscing elit, seddo eiusmod",
         }

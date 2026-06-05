@@ -11,22 +11,22 @@ function TeamCard () {
     }, []);     
     const teamdata=[
         {
-            "TeamImage":"/public/spa-team-1.webp",
+            "TeamImage":"/spa-team-1.webp",
             "TeamateName":"Eric Tenney",
             "TeamatePost":"Spa Manager",
         },
          {
-            "TeamImage":"/public/spa-team-2.webp",
+            "TeamImage":"/spa-team-2.webp",
             "TeamateName":"Violet Malone",
             "TeamatePost":"Senior Massage Therapist",
         },
          {
-            "TeamImage":"/public/spa-team-3.webp",
+            "TeamImage":"/spa-team-3.webp",
             "TeamateName":"John Payne",
             "TeamatePost":"Masseur",
         },
          {
-            "TeamImage":"/public/spa-team-4.webp",
+            "TeamImage":"/spa-team-4.webp",
             "TeamateName":"Karen Tabor",
             "TeamatePost":"Spa Receptionist",
         }

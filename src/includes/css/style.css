@@ -107,7 +107,7 @@ header.fix .nav-link {
 .slide-1 {
   background:
     linear-gradient(170deg, rgb(10 10 10), rgba(106, 129, 75, 0.3)),
-    url("/public/slider-img-1.webp") no-repeat;
+    url("/slider-img-1.webp") no-repeat;
   background-size: cover;
   background-position: top center;
   min-height: 90vh;
@@ -116,7 +116,7 @@ header.fix .nav-link {
 .slide-2 {
   background:
     linear-gradient(170deg, rgb(10 10 10), rgb(106, 129, 75, 0.2)),
-    url("/public/slider-img-2.webp") no-repeat;
+    url("/slider-img-2.webp") no-repeat;
   background-size: cover;
   background-position: center bottom;
   min-height: 90vh;
@@ -125,7 +125,7 @@ header.fix .nav-link {
 .slide-3 {
   background:
     linear-gradient(170deg, rgb(10 10 10), rgba(106, 129, 75, 0.2)),
-    url("/public/slider-img-3.webp") no-repeat;
+    url("/slider-img-3.webp") no-repeat;
   background-size: cover;
   background-position: center;
   min-height: 90vh;
@@ -190,7 +190,7 @@ header.fix .nav-link {
 }
 
 .service-card-section {
-  background: url("/public/service-img.webp") no-repeat center/cover;
+  background: url("/service-img.webp") no-repeat center/cover;
   width: 100%;
   display: flex;
   align-items: center;
@@ -377,7 +377,7 @@ div.error {
 .about-banner-section {
   background:
     linear-gradient(rgba(0, 0, 0, 0.623), rgba(0, 0, 0, 0.822)),
-    url("/public/about-banner.webp") no-repeat;
+    url("/about-banner.webp") no-repeat;
   background-size: cover;
   background-position: center;
   min-height: 405px;
@@ -475,7 +475,7 @@ div.error {
 .pricing-banner {
   background:
     linear-gradient(170deg, rgb(10 10 10), rgba(106, 129, 75, 0.2)),
-    url("/public/pricing-banner.webp") no-repeat;
+    url("/pricing-banner.webp") no-repeat;
   background-size: cover;
   background-position: bottom;
   min-height: 500px;
@@ -487,7 +487,7 @@ div.error {
   backdrop-filter: blur(3px);
 }
 .voucher-image {
-  background: url("/public/voucher-image.webp") no-repeat;
+  background: url("/voucher-image.webp") no-repeat;
   background-size: cover;
   background-position: bottom;
   min-height: 300px;

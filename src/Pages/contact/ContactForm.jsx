@@ -58,7 +58,7 @@ function ContactForm() {
                     <div className="row g-0 align-items-center">
                         <div className="col-lg-7" data-aos="zoom-in">
                             <div className="contact-image h-100 p-3">
-                                <img src="/public/contact-img.webp" alt="contact-img" className="object-fit-cover rounded-0 faq-img w-100" height="600" />
+                                <img src="/contact-img.webp" alt="contact-img" className="object-fit-cover rounded-0 faq-img w-100" height="600" />
                             </div>
                         </div>
                         <div className="col-lg-5">

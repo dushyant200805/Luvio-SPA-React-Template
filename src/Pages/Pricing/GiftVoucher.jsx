@@ -36,7 +36,7 @@ function GiftVoucher () {
                         </div>
                         {/* <!-- Existing Content --> */}
                         <div className="logo-image">
-                            <img src="/public/logo-dark.png" alt="logo-dark" height="25"/>
+                            <img src="/logo-dark.png" alt="logo-dark" height="25"/>
                         </div>
                         <h2 className="second-font text-capitalize white-text fw-semibold fs-1">
                             wellness gift card

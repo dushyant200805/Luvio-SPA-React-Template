@@ -16,13 +16,13 @@ function GallerySection ({noBg}) {
             <div className="row g-3">
                 <div className="col-lg-2 col-md-6  order-lg-1 order-md-2 ">
                     <div className="gallery-img">
-                        <img src="/public/gallery-1.webp" alt="gallery-img-1" className="object-fit-cover  w-100"
+                        <img src="/gallery-1.webp" alt="gallery-img-1" className="object-fit-cover  w-100"
                             height="300"/>
                     </div>
                 </div>
                 <div className="col-lg-2 col-md-6  order-lg-2  order-md-3 ">
                     <div className="gallery-img">
-                        <img src="/public/gallery-2.webp" alt="gallery-img-2" className="object-fit-cover  w-100"
+                        <img src="/gallery-2.webp" alt="gallery-img-2" className="object-fit-cover  w-100"
                             height="300"/>
                     </div>
                 </div>
@@ -32,13 +32,13 @@ function GallerySection ({noBg}) {
                 </div>
                 <div className="col-lg-2 col-md-6  order-lg-4  order-4 ">
                     <div className="gallery-img">
-                        <img src="/public/gallery-3.webp" alt="gallery-img-3" className="object-fit-cover  w-100"
+                        <img src="/gallery-3.webp" alt="gallery-img-3" className="object-fit-cover  w-100"
                             height="300"/>
                     </div>
                 </div>
                 <div className="col-lg-2 col-md-6  order-lg-5  order-md-5 ">
                     <div className="gallery-img">
-                        <img src="/public/gallery-4.webp" alt="gallery-img-4" className="object-fit-cover  w-100"
+                        <img src="/gallery-4.webp" alt="gallery-img-4" className="object-fit-cover  w-100"
                             height="300"/>
                     </div>
                 </div>
