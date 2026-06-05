@@ -1,0 +1,273 @@
+/* ==========================
+
+    Project Name : Luvio
+    Author Name : Lucid Themeslab
+    Store Link : https://www.templatemonster.com/store/lucid_themeslab/
+    Version : 1.0.0
+
+===============================*/
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet"');
+
+:root{
+    --primefont: "Noto Sans", sans-serif;
+    --secondfont:  "Cormorant Garamond", serif;
+    --tertiaryfont: "Shrikhand", serif;
+}
+[data-luvio-theme ="light"] {
+
+    --body-bg: #fff;
+    --head-bg: #fff8f8;
+    --banner-bg: 122, 185, 232;
+    --prime-bg: #002522;
+    --alt-bg: #f7fffb;
+    --card-bg: #002522;
+    --card-alt-bg: #ffffff;
+    --card-alt-bg2: #6e7071;
+    --dark-bg: #29323C;
+    --input-bg: #ffffff;
+    --icon-bg: #87bd45;
+    --icon-alt-bg:#002522;
+    --footer-bg: #fff;
+    --footer-copy-bg: #fff;
+
+    --nav-text: #ffffff;
+    --nav-alt-text:#87bd45 ;
+    --white-text: #ffffff;
+    --prime-text: #002522;
+    --head-text: #002522;
+    --para-text: #333333;
+    --icon-text: #ffffff;
+    --head-alt-text: #fff;   
+     --para-alt-text: #fff; 
+
+    --input-text: #111111;
+    --footer-text: #151515;
+    --footer-copy-text: #151515;
+
+    --prime-btn: #002e2a;
+    --prime-btn2: #002522;
+    --prime-btn-text: #ffffff;
+    --prime-btn-text2: #ffffff;
+    --prime-btn-border: #002522;
+    --prime-btn-border2: #002522;
+
+    --input-border: #fbfcf8;
+    --prime-border: #c5eeeb;
+    --light-border: #002522;
+
+}
+
+[data-luvio-theme ="dark"] { 
+    --body-bg: #00150b;
+    --head-bg: #00150b;
+    --banner-bg: 72, 110, 150;
+    --prime-bg: #002522;
+    --alt-bg: #001b0e;
+    --card-bg: #002522;
+    --card-alt-bg: #002522;
+    --card-alt-bg2: #50565A;
+    --dark-bg: #1A1F24;
+    --input-bg: #012313;
+    --icon-bg: #87bd45;
+    --icon-alt-bg: #002522;
+    --footer-bg: #00150b;
+    --footer-copy-bg: #000e07;
+
+    --nav-text: #f0f0f0;
+    --nav-alt-text: #87bd45;
+    --white-text: #ffffff;
+    --prime-text: #87bd45;
+    --head-text: #ffffff;
+    --para-text: #e4e4e4;
+    --icon-text: #ffffff;
+    --head-alt-text: #ffffff;
+    --para-alt-text: #d9d9d9;
+    --input-text: #f0f0f0;
+    --footer-text: #ffffff;
+    --footer-copy-text: #e8e8e8;
+
+    --prime-btn: #3b5d0d;
+    --prime-btn2: #2b4507;
+    --prime-btn-text: #ffffff;
+    --prime-btn-text2: #ffffff;
+
+    --prime-btn-border: #3A4A48;
+    --prime-btn-border2: #3A4A48;
+
+    --input-border: #3A4248;
+    --prime-border: #002522;
+    --light-border: #4A5259;
+}
+
+
+.body-bg {
+    background-color: var(--body-bg) !important;
+}
+
+.head-bg {
+    background-color: var(--head-bg) !important;
+}
+.head-bg-trans{
+    background: transparent;
+}
+
+.banner-bg {
+    background-color: var(--banner-bg) !important;
+}
+
+.prime-bg {
+    background-color: var(--prime-bg) !important;
+}
+
+.alt-bg {
+    background-color: var(--alt-bg) !important;
+}
+.card-bg {
+    background-color: var(--card-bg) !important;
+}
+.dark-bg {
+    background-color: var(--dark-bg) !important;
+}
+.card-alt-bg {
+    background-color: var(--card-alt-bg) !important;
+}
+
+.input-bg {
+    background-color: var(--input-bg) !important;
+}
+
+.icon-bg {
+    background-color: var(--icon-bg) !important;
+}
+
+.footer-bg {
+    background-color: var(--footer-bg) !important;
+}
+
+.footer-copy-bg {
+    background-color: var(--footer-copy-bg) !important;
+}
+
+.nav-text {
+    color: var(--nav-text) !important;
+}
+.icon-text {
+    color: var(--icon-text) !important;
+}
+
+.white-text {
+    color: var(--white-text) !important;
+}
+
+.prime-text {
+    color: var(--prime-text) !important;
+}
+
+.head-text {
+    color: var(--head-text) !important;
+}
+
+.para-text {
+    color: var(--para-text) !important;
+}
+
+.head-alt-text {
+    color: var(--head-alt-text) !important;
+}
+
+.para-alt-text {
+    color: var(--para-alt-text) !important;
+}
+
+.input-text {
+    color: var(--input-text) !important;
+}
+.input-border{
+    border: 1px solid var(--input-border) !important;
+}
+.footer-text {
+    color: var(--footer-text) !important;
+}
+
+.footer-copy-text {
+    color: var(--footer-copy-text) !important;
+}
+
+.prime-btn {
+    background-color: var(--prime-btn) !important;
+    color: var(--prime-btn-text) !important; 
+    border: unset;
+}
+
+.prime-btn:hover {
+    background-color: var(--prime-btn2) !important;
+    color: var(--prime-btn-text) !important; 
+}
+
+.prime-outline-btn {
+    background-color: transparent !important;
+    color: var(--prime-btn-text2) !important; 
+    text-transform: capitalize !important;
+    border: unset;
+}
+
+.prime-outline-btn:hover {
+    background-color: var(--prime-btn) !important;
+    color: var(--prime-btn-text) !important; 
+}
+
+.prime-outline-btn2 {
+    background-color: transparent;
+    color: var(--prime-btn-text); 
+    text-transform: capitalize;
+    border: unset;
+}
+
+.prime-outline-btn2:hover {
+    background-color: var(--prime-btn);
+    color: var(--prime-btn-text); 
+}
+
+.prime-border {
+    border-color: var(--prime-border) !important;
+} 
+
+.light-border {
+    border-color: var(--light-border) !important;
+}
+.prime-font {
+    font-family: var(--primefont) !important;
+}
+.second-font {
+    font-family: var(--secondfont) !important;
+}
+.tertiary-font {
+    font-family: var(--tertiaryfont) !important;
+}
+.backgound-blur{
+       backdrop-filter: blur(10px);
+}
+.fs-7{
+    font-size: 15px;
+}
+.fs-8{
+    font-size: 44px;
+}
+.fs-9{
+    font-size: 12px;
+}
+.fs-10{
+    font-size: 65px;
+}
+.pt{
+    padding-top: 115px;
+}
+.mb-6{
+    margin-bottom: 140px;
+}
+.ps-6{
+    padding-left:15rem !important;
+}
+.pe-6{
+    padding-right:15rem !important;
+}
