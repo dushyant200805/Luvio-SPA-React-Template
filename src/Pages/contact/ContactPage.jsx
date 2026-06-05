@@ -1,5 +1,5 @@
 import Commonbanner from "../../Component/Common-section/CommonBanner";
-import ContactForm from "./contactForm";
+import ContactForm from "./ContactForm";
 import GallerySection from "../../Component/Common-section/GallerySection";
 import EmailAlertMessage from "../../Component/Ui/EmailAlertMessage";
 function ContactPage() {
