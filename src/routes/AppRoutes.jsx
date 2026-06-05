@@ -7,7 +7,7 @@ import ServicePage from "../Pages/Service/ServicePage";
 import PricingPage from "../Pages/Pricing/PricingPage";
 import BlogsPage from "../Pages/blogs/BlogsPage";
 import BlogDetails from "../Pages/blogdetail/BlogDetailsPage";
-import Contact from "../Pages/contact/contactPage";
+import Contact from "../Pages/contact/ContactPage";
 import NotFound from "../pages/notfound/NotFound";
 import ScrollFunction from "../Component/Common-section/ScrollFunction";
 
